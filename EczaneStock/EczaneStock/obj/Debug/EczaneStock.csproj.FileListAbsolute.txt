@@ -1,0 +1,12 @@
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\bin\Debug\EczaneStock.exe.config
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\bin\Debug\EczaneStock.exe
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\bin\Debug\EczaneStock.pdb
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.Form1.resources
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.Properties.Resources.resources
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.exe
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.pdb
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.Giris.resources
+C:\Users\Ali Ozan\source\repos\EczaneStock\EczaneStock\obj\Debug\EczaneStock.Kayit.resources
